@@ -1,4 +1,4 @@
-name: Develop build after feature/hotfix merged
+name: Develop build after feature/hotfix merged Igor Update
 
 on:
   push:
